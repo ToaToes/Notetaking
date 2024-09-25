@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462953685335",
+    "firebase_url": "https://notetaking-beb86-default-rtdb.firebaseio.com",
+    "project_id": "notetaking-beb86",
+    "storage_bucket": "notetaking-beb86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462953685335:android:aebe64ef569c341e481e12",
+        "android_client_info": {
+          "package_name": "com.example.notetaking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8LNBPnKgtKOXx3I3SPTbUUb9ApTBNE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
